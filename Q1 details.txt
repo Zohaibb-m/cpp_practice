@@ -1,0 +1,3 @@
+The diamond star pattern is the combination of the pyramid patterns.
+The following c++ program combines the code of simple pyramid and we'll 
+only create the upper portion of a diamond pattern.
