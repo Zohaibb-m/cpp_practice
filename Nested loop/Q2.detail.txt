@@ -1,0 +1,4 @@
+In this program we'll use for loop to print a reverse numbering pattern.
+and we'll deduct that number which will be used in the previous line as 
+a first element. so that the remainaing elements will call in a next row and by further doing this 
+we'll reach at the last element.
