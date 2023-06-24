@@ -1,0 +1,3 @@
+We have printed a 5 number series in line by line to 5 rows.
+The every row is the same as above.
+ 
