@@ -1,0 +1,4 @@
+Arrays are used to store multiple values in a single variable,
+instead of declaring separate variables for each value.
+You access an array element by referring to the index number inside square brackets [].
+The array starts with 0. Meaning x[0] is the first element stored at index 0.
