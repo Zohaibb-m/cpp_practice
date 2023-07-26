@@ -1,0 +1,40 @@
+Explain:
+1. Compiler:
+    English: 
+        It is a program that translates a source code into machine code.
+    Urdu:
+        Ye ek esa program hai ju hamari zubaan ko translate krke machine ko uski language deta hai.
+2. Interpreter:
+    English:
+        While Interpreter translates the code line by line when the program is running.
+    Urdu:
+        Interpretercode ko line by line translate krne ke lye use hota.
+3. Linker:
+    English:
+        A linker merges all the machine-code modules referenced in our code. 
+    Urdu:
+        Linker sare machine code ko ekhatta krne ke lye use hota.
+4. Libraries:
+        English:
+            A library is a collection of prewritten code that programmers can use to optimize tasks. 
+        Urdu:
+            Library mai kaafi had cheezain built in hoti hain ham unka istemal krke apne code ko mazeed behtar banate hain.
+5. Text Editor:
+    English:
+        A text editor refers to any form of computer program that enables users to create, change, edit, open and view plain text files. 
+    Urdu:
+        Text editors hamay koi file create, us mai changes ya usko edit wagerah krne ke lye istemal hote hain.
+6. Code Editor:
+    English:
+        Code editors allow a Developer to write error-free code more efficiently.
+    Urdu:
+        Ye programmer ko ek interface provide krte hain jahan wo error free apna code likhe.
+7. IDE:
+    English:
+        An IDE is a software application that helps programmers develop software code efficiently.
+    Urdu:
+        Ye programmer ko ek interface provide krte hain jahan wo error free apna code likhe.
+Name any five code editors and 5 IDEs:
+    Code Editors: Visual Studio, Sublime text, Atom, Notepad++, dev.
+    IDE's : Eclipse, NetBeans, IntelliJ IDEA, Visual Studio, Sublime text.
+    (Well Both are same)
