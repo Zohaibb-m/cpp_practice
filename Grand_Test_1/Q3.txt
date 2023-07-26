@@ -1,0 +1,15 @@
+Explain the followng terms first in english then in Urdu.
+Example:
+English: C++ is used for programming.
+Urdu: C++ programming krne keliye istemaal hoti hai
+
+
+Explain:
+Compiler:
+Interpreter:
+Linker:
+Libraries:
+Text Editor:
+Code Editor:
+IDE:
+Name any five code editors and 5 IDEs:
